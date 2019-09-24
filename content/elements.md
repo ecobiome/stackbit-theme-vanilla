@@ -1,11 +1,11 @@
 ---
-template: page
 title: UI Kit
 subtitle: Vanilla styleguide.
-menus:
+layout: page
+menu:
   main:
-    title: Elements
     weight: 3
+    name: Elements
 ---
 <section class="content">
     <h1>This is an H1</h1>
